@@ -7,8 +7,6 @@
 
 <h3 align="center">Storage and File Sharing Platform</h3>
 
-## 📋 `<a name="table">`Table of Contents `</a>`
-
 1. 🤖 [Introduction](#introduction)
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
@@ -17,7 +15,6 @@
 6. 🔗 [Assets](#links)
 7. 🚀 [More](#more)
 
-## `<a name="tech-stack">`⚙️ Tech Stack `</a>`
 
 - React 19
 - Next.js 15
@@ -26,7 +23,6 @@
 - ShadCN
 - TypeScript
 
-## `<a name="features">`🔋 Features `</a>`
 
 👉 **User Authentication with Appwrite**: Implement signup, login, and logout functionality using Appwrite's authentication system.
 
@@ -48,8 +44,6 @@
 
 and many more, including the latest **React 19**, **Next.js 15** and **Appwrite** features alongside code architecture and
 reusability
-
-## `<a name="quick-start">`🤸 Quick Start `</a>`
 
 Follow these steps to set up the project locally on your machine.
 
@@ -93,8 +87,6 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
-
-## `<a name="snippets">`🕸️ Snippets `</a>`
 
 <details>
 <summary><code>tailwind.config.ts</code></summary>
